@@ -1,1 +1,0 @@
-# weather-app-second-project
